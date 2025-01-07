@@ -1,6 +1,6 @@
 # 👋 Hello! Welcome to my GitHub profile
 
-I'm [Your Name], a developer passionate about coding and creating interesting solutions through programming. While I'm still building my journey in the tech world, I love learning and exploring new possibilities.
+I'm [Nicolas Suarez], a developer passionate about coding and creating interesting solutions through programming. While I'm still building my journey in the tech world, I love learning and exploring new possibilities.
 
 ---
 
