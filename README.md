@@ -31,9 +31,10 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,discord,figma,github,html,js,py,cs,dotnet,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,css,figma,github,html,js,py,cs,dotnet,vscode,mysql,postgres&perline=6&theme=dark" />
   </a>
 </p>
+
 
 <div id="user-content-toc">
   <ul align="center">
